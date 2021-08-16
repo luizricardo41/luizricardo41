@@ -1,6 +1,6 @@
 Olá, meu nome é Luiz Ricardo, natural de Itapeva, interior de São Paulo.
 
-Iniciei meus estudos na _[Trybe](https://app.betrybe.com/)_ neste mês de agosto de 2021 e est e Desenvolvimento Web.
+Iniciei meus estudos na _[Trybe](https://app.betrybe.com/)_ neste mês de agosto de 2021 e estou empolgado para aprender sobre tecnologia e Desenvolvimento Web.
 
 Sempre trabalhei com tecnologia, mas nunca voltada para área de desenvolvimento.
 
