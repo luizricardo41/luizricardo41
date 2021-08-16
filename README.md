@@ -8,4 +8,4 @@ Escolhi a trybe para iniciar meus passos rumo a me tornar um desenvolvedor e est
 
 A tecnologia cada vez mais busca ajudar e facilitar a vida das pessoas e quero poder contribuir para essa evolução.
 
-Você pode me encontrar _[aqui](www.linkedin.com/in/luizricardo41)_ também!
+Você pode me encontrar __[aqui](www.linkedin.com/in/luizricardo41)__ também!
