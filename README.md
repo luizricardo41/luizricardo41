@@ -25,8 +25,5 @@ Estudante de desenvolvimento WEB desde agosto de 2021, na _[Trybe](https://app.b
    <a href="https://www.linkedin.com/in/luizricardo41">
      <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   <a href="https://www.instagram.com/luizricardo_hp/">
-     <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </div>
 </body>
