@@ -5,13 +5,13 @@
 ### Sobre mim
 Tenho 33 anos, sou natural da cidade de Itapeva, interior de São Paulo.
 
-Eu sempre trabalhei com tecnologia, com instalação e manutenção de equipamentos e sistemas especificos para praças de pedágio.
-
-Depois de quase nove anos trabalhando nessa área, decidi mudar o rumo da minha carreira, e me tornar desenvolvedor.
+Em agosto de 2021, decidi mudar o rumo da minha carreira, e me tornar desenvolvedor.
 
 Desde que tomei essa decisão, estou estudando na [Trybe](https://app.betrybe.com/), desenvolvendo minhas habilidades técnicas e comportamentais.
 
-Atualmente, estou procurando uma oportunidade para ingressar na área! 
+Além da Trybe, tento sempre me manter atualizado através de conteúdos na internet.
+
+Atualmente, estou procurando uma oportunidade para atuar como desenvolvedor web fullstack.
 
 
 ### 🛠 Habilidades
