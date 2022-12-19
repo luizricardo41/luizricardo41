@@ -7,7 +7,7 @@ Tenho 33 anos, sou natural da cidade de Itapeva, interior de São Paulo.
 
 Em agosto de 2021, decidi mudar o rumo da minha carreira, e me tornar desenvolvedor.
 
-Desenvolvedor Fullstack na Altas Segurança e Inteligencia Logistica.
+Desenvolvedor Fullstack na [Altas Segurança e Inteligencia Logistica](https://www.atlasgr.com.br/).
 
 
 ### 🛠 Habilidades
