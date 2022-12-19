@@ -7,11 +7,7 @@ Tenho 33 anos, sou natural da cidade de Itapeva, interior de São Paulo.
 
 Em agosto de 2021, decidi mudar o rumo da minha carreira, e me tornar desenvolvedor.
 
-Desde que tomei essa decisão, estou estudando na [Trybe](https://app.betrybe.com/), desenvolvendo minhas habilidades técnicas e comportamentais.
-
-Além da Trybe, tento sempre me manter atualizado através de conteúdos na internet.
-
-Atualmente, estou procurando uma oportunidade para atuar como desenvolvedor web fullstack.
+Desenvolvedor Fullstack na Altas Segurança e Inteligencia Logistica.
 
 
 ### 🛠 Habilidades
@@ -28,8 +24,6 @@ Atualmente, estou procurando uma oportunidade para atuar como desenvolvedor web 
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </div>
 
-### Estou aprendendo
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizricardo41&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
