@@ -3,7 +3,7 @@
 
 
 ### Sobre mim
-Tenho 33 anos, sou natural da cidade de Itapeva, interior de São Paulo.
+Tenho 34 anos, sou natural da cidade de Itapeva, interior de São Paulo.
 
 Em agosto de 2021, decidi mudar o rumo da minha carreira, e me tornar desenvolvedor.
 
